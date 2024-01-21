@@ -1,0 +1,2 @@
+C:\Users\Kacper\source\repos\CalcForEle\Gtest_Kalk\x64\Debug\Gtest_Kalk.vcxproj.CopyComplete
+C:\Users\Kacper\Desktop\CalcForEle_cmake\Gtest_Kalk\x64\Debug\Gtest_Kalk.vcxproj.CopyComplete
